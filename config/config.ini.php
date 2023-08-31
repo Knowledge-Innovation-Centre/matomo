@@ -2,10 +2,15 @@
 ; file automatically generated or modified by Matomo; you can manually override the default values in global.ini.php by redefining them in this file.
 
 [database]
-host = "analytics_knowledgeinno.eu"
-user = "user"
-pass = "pass"
-charset = "utf8mb4"
+host =
+username =
+password =
+dbname =
+tables_prefix =
+port = 3306
+adapter = PDO\MYSQL
+type = InnoDB
+schema = Mysql
 
 [General]
 force_ssl = 1
