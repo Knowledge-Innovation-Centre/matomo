@@ -1,0 +1,22 @@
+{
+    "RollUpReporting": {
+        "AllMeasurablesAssigned": "Tous les éléments mesurables ont été assignés à ce Roll-Up. Lorsque vous créez de nouveaux éléments mesurables, ils seront automatiquement inclus dans ce Roll-Up.",
+        "ErrorCannotAssignRollUpToAnotherRollUp": "Il n'est pas possible d'affecter l'idsite %1$s du Roll-Up à ce Roll-Up car l'idsite %2$s du Roll-Up inclut déjà le site que vous êtes en train de mettre à jour.",
+        "ErrorNoSiteAssigned": "Au moins un site enfant doit être affecté au Roll-Up",
+        "FindMeasurables": "Trouvez des éléments mesurables",
+        "GoalCreationNotPossible": "Il n'est pas possible de créer un objectif pour un site de type \"Roll-Up\"",
+        "MatchingSearchConfirmTitle": "Êtes-vous sûr de vouloir ajouter des %s correspondant à ces élements mesurables ?",
+        "MatchingSearchConfirmTitleAlreadyAdded": "%s éléments mesurables correspondants sont déjà ajoutés",
+        "MatchingSearchMatchedAdd": "Ces %1$s éléments mesurables correspondent à %2$s et seront ajoutés à ce roll up",
+        "MatchingSearchMatchedAlreadyAdded": "Ces %1$s éléments mesurables correspondaient à %2$s mais sont déjà ajoutés à ce roll up",
+        "MatchingSearchNotFound": "Il n'y a pas d'éléments mesurables correspondant au terme de recherche %s.",
+        "NoMeasurableAssignedYet": "Aucun élément mesurable n'a encore été attribué, veuillez sélectionner un élément mesurable dans le sélecteur ci-dessus.",
+        "RollUpMeasurableSettingHelp": "Définit la source des éléments mesurables qui doivent être agrégés pour cet élément. Pour ajouter cet élément mesurable (ou site web) à cette agrégation, sélectionnez un élément mesurable dans la liste. Pour supprimer un élément, cliquez sur l'icône moins à côté du nom du site. Au moins un élément mesurable doit être lié à ce site. Le commerce électronique et la recherche de site seront activés automatiquement si l'un des mesurables attribués a le commerce électronique ou la recherche sur site activée. Lorsque vous ajoutez ou supprimez des éléments mesurables ultérieurement, il peut être nécessaire de générer à nouveau les rapports précédemment créés.",
+        "RollUpMeasurableSettingTitle": "Source des éléments mesurables",
+        "RollUpSitePrefixName": "Roll-Up",
+        "SelectMeasurable": "Sélectionnez un élément mesurable à ajouter à ce roll up",
+        "SelectMeasurablesMatchingSearch": "ou ajouter tous les éléments mesurables qui contiennent le terme de recherche suivant",
+        "SystemSettingCreationDateSyncHelp": "Lorsqu'il est activé, la date de création d'un Roll-Up sera automatiquement fixée à la date de création de la source de l'élément mesurable la plus ancienne. Cela vous permet de visualiser des rapports dans le passé pour un Roll-Up après que vous l'ayez créé. Vous pouvez désactiver ce paramètre si vous avez un trafic élevé et que l'archivage de ces rapports prendrait trop de temps.",
+        "SystemSettingCreationDateSyncTitle": "Synchroniser la date de création"
+    }
+}

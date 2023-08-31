@@ -1,0 +1,22 @@
+{
+    "RollUpReporting": {
+        "AllMeasurablesAssigned": "Tüm ölçülebilirler bu Toplu Rapora atanmış. Yeni ekleyeceğiniz ölçülebilirler otomatik olarak bu Toplu Rapora katılacak.",
+        "ErrorCannotAssignRollUpToAnotherRollUp": "%1$s Toplu rapor site kodu zaten güncellemekte olduğunuz siteyi kapsadığından bu toplu rapora %2$s toplu rapor site kodu atanamıyor.",
+        "ErrorNoSiteAssigned": "Toplu rapor sitesine en az bir alt site atanması gerekiyor",
+        "FindMeasurables": "Ölçülebilir arama",
+        "GoalCreationNotPossible": "Bir toplu rapor sitesi için bir hedef oluşturulamaz",
+        "MatchingSearchConfirmTitle": "Eşleşen %s ölçülebiliri eklemek istediğinize emin misiniz?",
+        "MatchingSearchConfirmTitleAlreadyAdded": "%s eşleşen ölçülebilir zaten eklenmiş",
+        "MatchingSearchMatchedAdd": "Bu %1$s ölçülebilir %2$s ile eşleşiyor ve bu toplu rapora eklenecek",
+        "MatchingSearchMatchedAlreadyAdded": "Bu %1$s ölçülebilir %2$s ile eşleşiyor ancak zaten bu toplu rapora eklenmişler",
+        "MatchingSearchNotFound": "%s ifadesine uyan bir ölçülebilir yok.",
+        "NoMeasurableAssignedYet": "Henüz bir ölçülebilir atanmamış, lütfen yukarıdaki seçiciden bir ölçülebilir seçin.",
+        "RollUpMeasurableSettingHelp": "Bu ölçülebilir için toplanması gereken kaynak ölçülebilirlerini belirler. Bu toplu rapora bir ölçülebilir (ya da web sitesi) eklemek için ölçülebilir seçiciden bir ölçülebilir seçin. Bir ölçülebiliri kaldırmak için site adının yanındaki eksi simgesine tıklayın. Bu siteyle en az bir ölçülebilir bağlantılı olmalıdır. Atanabilecek ölçülebilirlerden birinde e-ticaret ya da site araması etkin ise, e-ticaret ve site arama otomatik olarak etkinleştirilir. Daha sonra bir ölçülebilir eklediğinizde ya da kaldırdığınızda, önceden üretilmiş raporların yeniden üretilmesi gerekebilir.",
+        "RollUpMeasurableSettingTitle": "Kaynak ölçülebilirler",
+        "RollUpSitePrefixName": "Toplu rapor",
+        "SelectMeasurable": "Bu toplu rapora eklenecek bir ölçülebilir seçin",
+        "SelectMeasurablesMatchingSearch": "ya da şu ifadeyi içeren tüm ölçülebilirleri ekleyin",
+        "SystemSettingCreationDateSyncHelp": "Bu seçenek etkinleştirildiğinde, bir Toplu Raporun eklenme tarihi otomatik olarak en eski kaynak ölçülebilirin eklenme tarihine ayarlanır. Böylece bir toplu raporun eklenmesinden önceki verileri de kapsaması sağlanabilir. Site trafiği yoğunsa bu raporların arşivlenmesi çok uzun sürebileceğinden bu seçeneği devre dışı bırakmak isteyebilirsiniz.",
+        "SystemSettingCreationDateSyncTitle": "Eklenme tarihi eşitlensin"
+    }
+}

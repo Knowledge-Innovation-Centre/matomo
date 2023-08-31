@@ -1,0 +1,22 @@
+{
+    "RollUpReporting": {
+        "RollUpSitePrefixName": "Souhrn",
+        "RollUpMeasurableSettingTitle": "Meřitelné zdroje",
+        "RollUpMeasurableSettingHelp": "Definuje měřitelné zdroje, které by měly být agregované, za to měřitelné. Abyste přidali měření (nebo webovou stránku) do tohoto souhrnu, vyberte měřitelnost z výběru měřitelnosti. Odstraníte jej kliknutím na ikonku mínus vedle názvu stránky. Alespoň jedna měřitelnost by měla být na tomto webu. E-commerce a Site-Search budou aktivovány automaticky pokud jedna z přiřazených měřitelností má e-commerce nebo s povolením vyhledávání. Pokud později přidáš nebo odebereš měřitelnost, dříve vygenerované reporty budou možná potřebovat aktualizovat.",
+        "SystemSettingCreationDateSyncTitle": "Synchronizovat datum vytvoření.",
+        "SystemSettingCreationDateSyncHelp": "Pokud je povolené, datum vytvoření souhrnu bude automaticky nastaveno na datum vytvoření nejstaršího měřitelného zdroje. Tohle vám dovoluje zobrazení přehledů poté, co jste jej vytvořili. Možná budete chtít toto nastavení zakázat, pokud máte velký provoz a archivace těchto přehledů by trvala příliš dlouho.",
+        "ErrorNoSiteAssigned": "Alespoň jedna přidružená stránka musí být přiřazena k souhrn stránce.",
+        "ErrorCannotAssignRollUpToAnotherRollUp": "Není možné přiřazovat k souhrn idsite %1$s do tohoto Roll-Upu, proto souhrn idsite %2$s již obsahuje stránku, kterou právě aktualizuješ.",
+        "NoMeasurableAssignedYet": "Žádná měřitelnost zatím nebyla přiřazena, prosím vyber měřitelnost z nabídky výše.",
+        "GoalCreationNotPossible": "Není možné vytvořit cíl pro souhrnnou stránku",
+        "FindMeasurables": "Najdite měření",
+        "SelectMeasurable": "Vyberte měření na přidání do tohoto souhrnu",
+        "SelectMeasurablesMatchingSearch": "nebo přidejte všechny měření, které obsahují následující vyhledávaný termín",
+        "MatchingSearchNotFound": "Není žádné měření vhodné pro vyhledávaný termín %s.",
+        "MatchingSearchConfirmTitle": "Jste si jistý, že chceš přidat %s shodující měření?",
+        "MatchingSearchConfirmTitleAlreadyAdded": "%s shodné měřitelnosti už byly přidány",
+        "MatchingSearchMatchedAdd": "Tyto %1$s měření odpovídají %2$s a budou přidány do souhrnu",
+        "MatchingSearchMatchedAlreadyAdded": "Tyto %1$s měření odpovídají %2$s ale již jsou přidány do tohoto souhrnu",
+        "AllMeasurablesAssigned": "K tomuto souhrnu byly přiřazeny všechny měřitelné údaje. Když vytvoříte nové měřitelné položky, budou automaticky zahrnuty do tohoto souhrnu."
+    }
+}

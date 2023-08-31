@@ -1,0 +1,22 @@
+{
+    "RollUpReporting": {
+        "RollUpSitePrefixName": "Compactação",
+        "RollUpMeasurableSettingTitle": "Mensuráveis-fonte",
+        "RollUpMeasurableSettingHelp": "Define os mensuráveis-fonte que devem ser agregados para este mensurável. Para adicionar um mensurável (ou site) a esta compactação, selecione um mensurável do selecionador de mensuráveis. Para remover um mensurável, clique no ícone do menos junto ao nome do site. Pelo menos um mensurável tem de estar associado a este site. Comércio eletrónico e pesquisa do site serão ativados automaticamente se um dos mensuráveis atribuídos tiver comércio eletrónico ou pesquisa do site ativo. Quando adiciona ou remove mensuráveis mais tarde, os relatórios gerados anteriormente poderão ter de ser gerados novamente.",
+        "SystemSettingCreationDateSyncTitle": "Sincronizar data de criação",
+        "SystemSettingCreationDateSyncHelp": "Quando ativo, a data de criação de uma Compactação será definida como a data de criação do mensurável-fonte mais antigo. Isto permite consultar relatórios no passado para uma compactação depois de a criar. Pode querer desativar esta definição se tem um grande volume de tráfego e se o arquivamento destes relatórios iria demorar muito tempo.",
+        "ErrorNoSiteAssigned": "Pelo menos um site-filho tem de ser atribuído ao site compactado.",
+        "ErrorCannotAssignRollUpToAnotherRollUp": "Não é possível atribuir a compactação idsite %1$s a esta compactação porque a compactação idsite %2$s já inclui o site que está a atualizar neste momento.",
+        "NoMeasurableAssignedYet": "Ainda não foi atribuído nenhum mensurável. Por favor, selecione um mensurável do seletor acima.",
+        "GoalCreationNotPossible": "Não é possível criar um objetivo para um site compactado",
+        "FindMeasurables": "Procurar mensuráveis",
+        "SelectMeasurable": "Selecione um mensurável para adicionar a esta compactação",
+        "SelectMeasurablesMatchingSearch": "ou adicione todas os mensuráveis que contenham o seguinte termo de pesquisa",
+        "MatchingSearchNotFound": "Não existe nenhum mensurável que coincida com o termo de pesquisa %s.",
+        "MatchingSearchConfirmTitle": "Tem a certeza que quer adicionar os %s mensuráveis coincidentes?",
+        "MatchingSearchConfirmTitleAlreadyAdded": "%s mensuráveis coincidentes já estão adicionados",
+        "MatchingSearchMatchedAdd": "Estes %1$s mensuráveis coincidiram com %2$s e serão adicionados a esta compactação",
+        "MatchingSearchMatchedAlreadyAdded": "Estes %1$s mensuráveis coincidiram com %2$s mas já foram adicionados a esta compactação",
+        "AllMeasurablesAssigned": "Todos os mensuráveis foram adicionados a esta compactação. Quando criar novos mensuráveis, estes serão automaticamente adicionados a esta compactação."
+    }
+}

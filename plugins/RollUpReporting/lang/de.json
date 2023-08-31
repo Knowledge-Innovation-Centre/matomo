@@ -1,0 +1,22 @@
+{
+    "RollUpReporting": {
+        "RollUpSitePrefixName": "Roll-Up",
+        "RollUpMeasurableSettingTitle": "Quell-Messgrößen",
+        "RollUpMeasurableSettingHelp": "Definiert die Quellmessgrößen, die für diese Messgröße aggregiert werden sollen. Um eine Messgröße (oder Website) zu diesem Roll-Up hinzuzufügen, wählen Sie eine Messgröße aus der Messgrößenauswahl aus. Um eine Messgröße zu entfernen, klicken Sie auf das Minus-Symbol neben dem Namen der Website. Mindestens eine Messgröße muss mit dieser Website verknüpft sein. E-Commerce und Site-Search werden automatisch aktiviert, wenn eine der zugeordneten Messgrößen E-Commerce oder Site-Search aktiviert hat. Wenn Sie zu einem späteren Zeitpunkt Messgrößen hinzufügen oder entfernen, müssen zuvor erstellte Berichte möglicherweise neu generiert werden.",
+        "SystemSettingCreationDateSyncTitle": "Erstellungsdatum synchronisieren",
+        "SystemSettingCreationDateSyncHelp": "Wenn diese Option aktiviert ist, wird das Erstellungsdatum eines Roll-Ups automatisch auf das Erstellungsdatum der ältesten Quellmessgröße gesetzt. Dadurch können Sie Berichte in der Vergangenheit für ein Roll-Up anzeigen, nachdem Sie es erstellt haben. Sie sollten diese Einstellung möglicherweise deaktivieren, wenn Sie einen hohen Datenverkehr haben und die Archivierung dieser Berichte zu lange dauern würde.",
+        "ErrorNoSiteAssigned": "Dem Roll-Up muss mindestens eine Unterseite zugewiesen werden",
+        "ErrorCannotAssignRollUpToAnotherRollUp": "Es ist nicht möglich, das Roll-Up idsite %1$s diesem Roll-Up zuzuordnen, da das Roll-Up idsite %2$s bereits die Seite enthält, die Sie gerade aktualisieren.",
+        "NoMeasurableAssignedYet": "Es wurde noch keine Messgröße zugewiesen, bitte wählen Sie eine Messgröße im Auswahlfeld oben aus.",
+        "GoalCreationNotPossible": "Es ist nicht möglich, ein Ziel für ein Roll-Up zu erstellen",
+        "FindMeasurables": "Messgrößen finden",
+        "SelectMeasurable": "Wählen Sie eine Messgröße aus, die zu diesem Rollup hinzugefügt werden soll",
+        "SelectMeasurablesMatchingSearch": "oder fügen Sie alle Messgrößen hinzu, die den folgenden Suchbegriff enthalten",
+        "MatchingSearchNotFound": "Es gibt keine Messgröße, die dem Suchbegriff %s entspricht.",
+        "MatchingSearchConfirmTitle": "Sind Sie sicher, dass Sie %s passende Messgrößen hinzufügen wollen?",
+        "MatchingSearchConfirmTitleAlreadyAdded": "%s passende Messgrößen sind bereits hinzugefügt",
+        "MatchingSearchMatchedAdd": "Diese %1$s Messgrößen stimmten überein %2$s und werden zu diesem Roll-Up hinzugefügt",
+        "MatchingSearchMatchedAlreadyAdded": "Diese %1$s Messgrößen stimmten überein %2$s, sind aber bereits in diesem Roll-Up enthalten",
+        "AllMeasurablesAssigned": "Alle Messgrößen wurden diesem Roll-Up zugeordnet. Wenn Sie neue Messgrößen erstellen, werden diese automatisch in dieses Roll-Up aufgenommen."
+    }
+}
