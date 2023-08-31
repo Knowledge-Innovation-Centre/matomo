@@ -2,7 +2,7 @@
 ; file automatically generated or modified by Matomo; you can manually override the default values in global.ini.php by redefining them in this file.
 
 [database]
-host =
+host = "matomo-db-iqz5x-mysql.matomo-db-iqz5x.svc.cluster.local"
 username =
 password =
 dbname =
